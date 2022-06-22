@@ -1,0 +1,111 @@
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(51, 96, 116);
+}
+.flexbox-1 {
+    display:flex; 
+    flex-wrap: stretch;
+    justify-content: space-evenly;
+    /* border: 2px solid black; */
+
+}
+
+.leftside-info {
+    flex-wrap: wrap;
+    outline: 2px dotted rgb(0, 0, 0);
+    width: 550px;
+    /* height: 550px; */
+    max-width: 550px;
+    background-color: paleturquoise;
+
+}
+
+.flexbox-2 {
+    display:flex; 
+    flex-wrap: stretch;
+    justify-content: space-evenly;
+    /* outline: 2px solid black; */
+
+}
+
+.leftside-info2 {
+    flex-wrap: wrap;
+    outline: 2px dotted rgb(0, 0, 0);
+    width: 550px;
+    /* height: 550px; */
+    max-width: 550px;
+    background-color: paleturquoise;
+
+}
+
+.flexbox-3 {
+    display:flex; 
+    flex-wrap: stretch;
+    justify-content: space-evenly;
+    /* outline: 2px solid black; */
+
+}
+
+.leftside-info3 {
+    flex-wrap: wrap;
+    outline: 2px dotted rgb(0, 0, 0);
+    width: 550px;
+    /* height: 550px; */
+    max-width: 550px;
+    background-color: paleturquoise;
+
+}
+
+.flexbox-4 {
+    display:flex; 
+    flex-wrap: stretch;
+    justify-content: space-evenly;
+    /* outline: 2px solid black; */
+
+}
+
+.leftside-info4 {
+    flex-wrap: wrap;
+    outline: 2px dotted rgb(0, 0, 0);
+    width: 550px;
+    /* height: 550px; */
+    max-width: 550px;
+    background-color: paleturquoise;
+
+}
+
+.flexbox-5 {
+    display:flex; 
+    flex-wrap: stretch;
+    justify-content: space-evenly;
+    /* outline: 2px solid black; */
+
+}
+
+.leftside-info5 {
+    flex-wrap: wrap;
+    outline: 2px dotted rgb(0, 0, 0);
+    width: 550px;
+    /* height: 550px; */
+    max-width: 550px;
+    background-color: paleturquoise;
+
+}
+
+.flexbox-6 {
+    display:flex; 
+    flex-wrap: stretch;
+    justify-content: space-evenly;
+    /* outline: 2px solid black; */
+
+}
+
+.leftside-info6 {
+    flex-wrap: wrap;
+    outline: 2px dotted rgb(0, 0, 0);
+    width: 550px;
+    /* height: 550px; */
+    max-width: 550px;
+    background-color: paleturquoise;
+
+}
